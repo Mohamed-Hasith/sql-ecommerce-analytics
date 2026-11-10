@@ -61,14 +61,14 @@ Cancelled orders are excluded from all revenue and sales analysis.
 - **Look beyond units sold:** some high-volume products earn very little revenue, so quantity alone is a poor measure of success.
 
 ## Sample Outputs
-![Overall performance](images/01_overall_performance.png)
-![Revenue by category](images/02_revenue_by_category.png)
-![Sales by country](images/03_sales_by_country.png)
-![Return reasons](images/04_return_reasons.png)
-![Revenue bridge](images/05_revenue_bridge.png)
+![Overall performance](sql-ecommerce-analytics/images/01_overall_performance.png)
+![Revenue by category](sql-ecommerce-analytics/images/02_revenue_by_category.png)
+![Sales by country](sql-ecommerce-analytics/images/03_sales_by_country.png)
+![Return reasons](sql-ecommerce-analytics/images/04_return_reasons.png)
+![Revenue bridge](sql-ecommerce-analytics/images/05_revenue_bridge.png)
 
 ## Database Schema
-![Schema](images/schema.png)
+![Schema](sql-ecommerce-analytics/images/schema.png)
 
 ## Tools and Skills
 - MySQL and MySQL Workbench
